@@ -49,7 +49,7 @@ The generic building blocks cover three different aspects of modelling: *structu
 
 <a name="video_1_2"></a>
 
-[![Simultan Implementation Video: coming soon](assets/images/Simultan_Impl_Video.png)](https://www.youtube.com/embed/8foL3ERGTRA)
+[![Simultan Implementation Video: coming soon](assets/images/Simultan_Impl_Video.png)](https://www.youtube.com/embed/yo2M2NYsBuI)
 *Video 1.2. The implementation of SIMULTAN.*
 
 
